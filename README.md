@@ -9,7 +9,6 @@ D / Svelte / Ansible / Docker — I build always-on infrastructure that has to s
     <img src="https://github.com/kevinpostal/irc-fiber/releases/download/v0.3.0-demo/irc-fiber-final-minimal.gif" width="800" alt="IRC Fiber demo — splash → #autism 5s → #zod 5s" />
   </a>
 </p>
-<p align="center"><em>15s demo — splash → meth.cat#autism → IRC Fiber#zod · already logged in · <a href="https://github.com/user-attachments/assets/6720acd2-4c81-476f-ade8-c144bf9ada23">video (1920×1080)</a></em></p>
 
 ### Featured — IRC Fiber
 
