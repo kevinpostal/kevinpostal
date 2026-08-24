@@ -2,6 +2,18 @@
 
 **Los Angeles, CA · [kevinpostal@gmail.com](mailto:kevindpostal@gmail.com) · [linkedin.com/in/kevinpostal](https://linkedin.com/in/kevinpostal) · [github.com/kevinpostal](https://github.com/kevinpostal) · [ircfiber.com](https://ircfiber.com)**
 
+<p align="center">
+  <a href="mailto:kevindpostal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/kevinpostal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kevinpostal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 > Senior Full Stack Engineer — 19 years scaling Python systems to millions of users. Django · React · AWS/GCP · Docker/Kubernetes. I turn legacy monoliths into resilient microservices and ship CI/CD that cuts release cycles from weeks to hours. Seeking Senior/Lead Platform & Infrastructure — Remote (Los Angeles).
 
 <p align="center">
@@ -33,6 +45,15 @@ op inject -i deploy/inventories/production/group_vars/vault.example.yml -o vault
 ```
 
 ### Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,ts,react,vue,angular,go,docker,kubernetes,aws,gcp,postgres,mysql,mongodb,redis,git,github,linux,vscode&perline=10" alt="Skills" />
+  </a>
+</p>
+
+### Technical Skills
+
 
 **Languages:** Python, JavaScript (ES6+), Go, TypeScript, D, HTML5, CSS3
 **Frameworks:** Django, Django REST Framework, Flask, FastAPI, Celery, React, Angular, Vue.js, Svelte 5, vibe.d
