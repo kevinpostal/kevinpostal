@@ -75,7 +75,3 @@ op inject -i deploy/inventories/production/group_vars/vault.example.yml -o vault
 * 47 public repos — pinned `irc-fiber` (superproject, 1 clone) + `ircfiber-site` + `ircfiber-engine` + `ircfiber-common` below
 * I ship infrastructure that survives host reboot — see `irc-fiber` `EngineJanitor` + `ServerRegistry`
 * **Open to Senior/Lead — Platform / Infrastructure / SRE — Los Angeles (remote) — [kevinpostal@gmail.com](mailto:kevindpostal@gmail.com)**
-
----
-
-> Profile inspired by [From Meh to Marvelous — Crafting a Killer GitHub Profile](https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602): demo GIF above the fold, pinned repos, topics, clean history, one-click Codespaces, 1Password.
