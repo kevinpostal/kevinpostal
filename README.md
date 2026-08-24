@@ -2,7 +2,7 @@
 
 **Los Angeles / Orange County, CA · [kevinpostal@gmail.com](mailto:kevindpostal@gmail.com) · [linkedin.com/in/kevinpostal](https://linkedin.com/in/kevinpostal) · [github.com/kevinpostal](https://github.com/kevinpostal) · [ircfiber.com](https://ircfiber.com) · 424-558-7265**
 
-> Senior Full Stack Engineer with 19+ years delivering Python systems at scale — Django, React, and cloud-native on AWS/GCP. I migrate monoliths to microservices, build CI/CD that serves 50K to millions, and keep infrastructure up through `docker restart` and host reboot. Open to Senior/Lead — Platform, Infrastructure, SRE — remote friendly.
+> Senior Full Stack Engineer — 19 years scaling Python systems to millions of users. Django · React · AWS/GCP · Docker/Kubernetes. I turn legacy monoliths into resilient microservices and ship CI/CD that cuts release cycles from weeks to hours. Seeking Senior/Lead Platform & Infrastructure — Remote (Los Angeles).
 
 <p align="center">
   <a href="https://github.com/kevinpostal/irc-fiber">
