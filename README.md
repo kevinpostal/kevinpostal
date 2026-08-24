@@ -1,6 +1,6 @@
 # Kevin Postal — Senior Full Stack Engineer
 
-**Los Angeles, CA · [kevinpostal@gmail.com](mailto:kevindpostal@gmail.com) · [linkedin.com/in/kevinpostal](https://linkedin.com/in/kevinpostal) · [github.com/kevinpostal](https://github.com/kevinpostal) · [ircfiber.com](https://ircfiber.com) · 424-558-7265**
+**Los Angeles, CA · [kevinpostal@gmail.com](mailto:kevindpostal@gmail.com) · [linkedin.com/in/kevinpostal](https://linkedin.com/in/kevinpostal) · [github.com/kevinpostal](https://github.com/kevinpostal) · [ircfiber.com](https://ircfiber.com)**
 
 > Senior Full Stack Engineer — 19 years scaling Python systems to millions of users. Django · React · AWS/GCP · Docker/Kubernetes. I turn legacy monoliths into resilient microservices and ship CI/CD that cuts release cycles from weeks to hours. Seeking Senior/Lead Platform & Infrastructure — Remote (Los Angeles).
 
