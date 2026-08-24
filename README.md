@@ -40,5 +40,3 @@ op inject -i deploy/inventories/production/group_vars/vault.example.yml -o vault
 * Open to **Platform / Infrastructure / SRE** — Los Angeles (remote friendly) — `kevindpostal@gmail.com`
 
 ---
-
-> Based on [From Meh to Marvelous — Crafting a Killer GitHub Profile](https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602): profile README, pinned repos, topics, demo GIF, clean history, One-click Codespaces.
