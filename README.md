@@ -42,7 +42,7 @@ op inject -i deploy/inventories/production/group_vars/vault.example.yml -o vault
 * **AMP Agency** `Nov 2018–Dec 2019` — Python/Django for LinkedIn/Amazon/Facebook/FX; AWS (EC2/RDS/ECS/Lambda); cleared 6-month backlog in 8 weeks.
 * **Freelance AI & Python** `Mar 2025–Present` — RAG + LLM APIs (OpenAI/Anthropic), AWS serverless (Lambda/API Gateway/DynamoDB/S3).
 
-*Full history → [Resume (Swiss, PDF)](https://github.com/kevinpostal/kevinpostal/blob/main/Resume_Swiss.pdf) or [LinkedIn](https://linkedin.com/in/kevinpostal)*
+*Full history → [Resume (Bauhaus, PDF)](https://github.com/kevinpostal/kevinpostal/blob/main/Resume-Bauhaus.pdf) or [LinkedIn](https://linkedin.com/in/kevinpostal)*
 
 ### More
 
