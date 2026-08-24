@@ -11,6 +11,11 @@
 </p>
 <p align="center"><em>Featured: IRC Fiber — 15s demo (already logged in via <code>.env</code>) — <a href="https://github.com/user-attachments/assets/6720acd2-4c81-476f-ade8-c144bf9ada23">video 1920×1080</a> · <a href="https://github.com/kevinpostal/irc-fiber">superproject</a> · <a href="https://ircfiber.com">live</a></em></p>
 
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=kevinpostal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Kevin's GitHub stats" /></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kevinpostal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs" /></a>
+</p>
+
 ### Why IRC Fiber for your team
 
 I built it to demo what I do in your stack — not because you need an IRC bouncer:
