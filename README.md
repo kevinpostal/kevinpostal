@@ -28,6 +28,12 @@
   <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kevinpostal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Langs" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinpostal/kevinpostal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinpostal/kevinpostal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kevinpostal/kevinpostal/output/github-snake.svg" width="800" />
+</picture>
+
 ### Why IRC Fiber for your team
 
 I built it to demo what I do in your stack — not because you need an IRC bouncer:
